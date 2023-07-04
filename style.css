@@ -1,3 +1,8 @@
+body {
+  background-color: aqua;
+}
+
+
 .timer {
   text-align: center;
   margin-top: 50px;
@@ -11,6 +16,8 @@ button {
   margin: 10px;
   padding: 10px 20px;
   font-size: 16px;
+  background-color: pink;
+  border-end-end-radius: 120px;
 }
 
 audio {
